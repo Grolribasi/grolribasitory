@@ -2,3 +2,8 @@
 Маркиев Владимир <grolribasi@gmail.com>
 :hide-uri-scheme:
 https://www.vladimir-markiev.name
+
+
+. Наберите в адресной строке браузера rzd.ru, откроется главная страница сайта.
+image::1.png[Главная страница]
+. В поле *"Откуда"* выберите 
