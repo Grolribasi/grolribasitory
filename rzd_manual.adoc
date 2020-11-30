@@ -3,10 +3,8 @@ Author is {Маркиев Владимир}
 :Email: <grolribasi@gmail.com>
 :hide-uri-scheme:
 :imagesdir: img
-ifdef::env-github[]
 :importatnt-caption: :warning:
 :source-highlighter: rouge
-endif::env-github[]
 :sectnums:
 
 
