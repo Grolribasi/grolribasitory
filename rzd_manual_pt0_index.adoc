@@ -1,0 +1,17 @@
+= Как купить билет на сайте РЖД
+Author is {Маркиев Владимир}
+:Email: <grolribasi@gmail.com>
+:hide-uri-scheme:
+:imagesdir: img
+:important-caption: :warning:
+:source-highlighter: rouge
+:sectnums:
+
+include::rzd_manual_pt1_time.adoc[]
+
+include::rzd_manual_pt2_class.adoc[]
+
+include::rzd_manual_pt3_passenger-check.adoc[]
+
+include::rzd_manual_pt4_payment.adoc[]
+
