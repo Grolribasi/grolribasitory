@@ -3,7 +3,7 @@ Author is {Маркиев Владимир}
 :Email: <grolribasi@gmail.com>
 :hide-uri-scheme:
 :imagesdir: img
-:important-caption: :heavy_exclamation_mark:
+:important-caption: :warning:
 
 
 Инструкция:: Данная инструкция поможет вам приобрести билет на сайте https://rzd.ru
