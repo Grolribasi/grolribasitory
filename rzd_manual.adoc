@@ -3,7 +3,6 @@ Author is {Маркиев Владимир}
 :Email: <grolribasi@gmail.com>
 :hide-uri-scheme:
 :imagesdir: img
-:important-caption: :warning:
 :source-highlighter: rouge
 :sectnums:
 
