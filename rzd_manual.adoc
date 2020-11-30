@@ -4,7 +4,7 @@ Author is {Маркиев Владимир}
 :hide-uri-scheme:
 :imagesdir: img
 :icons: font
--a stylesheet=my.css
+:stylesheet: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css
 
 
 Инструкция:: Данная инструкция поможет вам приобрести билет на сайте https://rzd.ru
